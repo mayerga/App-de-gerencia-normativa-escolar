@@ -1,0 +1,2 @@
+# App-de-gerencia-normativa-escolar
+Aplicación web en entorno servidor con PHP (manipulación de ficheros, acceso a BBDD, utilización en el contexto web, POO). Todo ello enfocado a la instalación, configuración y desarrollo de una solución web mediante el framework PHP Laravel. Aplico en la construcción de una aplicación de gestión académica escolar, con operaciones CRUD de cursos, estudiantes, profesores y asignaturas y la generación de listados dinámicos.
